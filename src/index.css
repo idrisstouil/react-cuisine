@@ -1,0 +1,37 @@
+h1, li, .title {
+  font-family: 'Mina';
+}
+h1, li {
+  text-align: center;
+}
+.title {
+  font-size: 20px;
+}
+li {
+  list-style-type: none;
+  font-size: 18px;
+}
+
+panel{
+display: inline;
+
+}
+.card{
+  width: 23%;
+  
+  margin: 6px;
+    padding: 5px;
+ 
+  
+position: relative;
+display: inline-block;
+flex-direction: column;
+
+}
+.cardc{
+  height: 130px;overflow: auto;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}

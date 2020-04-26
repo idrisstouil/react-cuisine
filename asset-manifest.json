@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-cuisine/static/css/main.fab2557a.chunk.css",
+    "main.js": "/react-cuisine/static/js/main.0781fe89.chunk.js",
+    "main.js.map": "/react-cuisine/static/js/main.0781fe89.chunk.js.map",
+    "runtime-main.js": "/react-cuisine/static/js/runtime-main.cc90359b.js",
+    "runtime-main.js.map": "/react-cuisine/static/js/runtime-main.cc90359b.js.map",
+    "static/js/2.c8392f0e.chunk.js": "/react-cuisine/static/js/2.c8392f0e.chunk.js",
+    "static/js/2.c8392f0e.chunk.js.map": "/react-cuisine/static/js/2.c8392f0e.chunk.js.map",
+    "index.html": "/react-cuisine/index.html",
+    "precache-manifest.639c74693c4bb92d87e8df89e4ecaaa0.js": "/react-cuisine/precache-manifest.639c74693c4bb92d87e8df89e4ecaaa0.js",
+    "service-worker.js": "/react-cuisine/service-worker.js",
+    "static/css/main.fab2557a.chunk.css.map": "/react-cuisine/static/css/main.fab2557a.chunk.css.map",
+    "static/js/2.c8392f0e.chunk.js.LICENSE.txt": "/react-cuisine/static/js/2.c8392f0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc90359b.js",
+    "static/js/2.c8392f0e.chunk.js",
+    "static/css/main.fab2557a.chunk.css",
+    "static/js/main.0781fe89.chunk.js"
+  ]
+}
